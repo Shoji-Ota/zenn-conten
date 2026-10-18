@@ -3,7 +3,7 @@ title: "WiMAXとStarlinkを、Pythonで計測して比較してみた"
 emoji: "🛰️"
 type: "tech" # tech: 機械学習 / idea: アイデア  "spacex"
 topics: ["starlink", "python", "network"]
-published: false
+published: true
 ---
 
 
